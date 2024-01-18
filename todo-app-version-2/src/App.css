@@ -1,0 +1,13 @@
+
+input{
+  width: 100%;
+}
+.items-container{
+ text-align: left; 
+}
+.pg-row{
+  margin: 10px 5px; 
+}
+.pg-button{
+  min-width: 80px;
+}
