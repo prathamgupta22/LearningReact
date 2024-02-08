@@ -1,0 +1,28 @@
+.card {
+  border: 2px solid #000;
+  border-radius: 8px;
+  max-width: 300px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  max-height: 150px;
+}
+
+body {
+  background-color: #f0f8ff;
+}
+
+.card-content {
+  padding: 0 8px;
+}
+
+.container-style {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 4px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
