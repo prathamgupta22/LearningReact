@@ -1,10 +1,9 @@
 import Button from "./Button";
-
 import LeftArrow from "../assests/images/left-arrow.png";
 import RightArrow from "../assests/images/right-arrow.png";
 import AppleBasket from "./AppleBasket";
-
 import "./Apple.css";
+
 
 const AppleCounter = () => {
   return (
@@ -16,5 +15,6 @@ const AppleCounter = () => {
     </section>
   );
 };
+
 
 export default AppleCounter;
